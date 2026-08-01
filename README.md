@@ -1,4 +1,5 @@
 # Marlin Firmware for Creality Ender-3 V3 SE
+[![CodeFactor](https://www.codefactor.io/repository/github/byrbyrka/ender-3-v3-se-custom/badge)](https://www.codefactor.io/repository/github/byrbyrka/ender-3-v3-se-custom)
 Custom Marlin firmware build for the Creality Ender-3 V3 SE 3D printer.
 ## Acknowledgments
 This project is based on the work by [navaismo/Ender-3V3-SE](https://github.com/navaismo/Ender-3V3-SE). 
